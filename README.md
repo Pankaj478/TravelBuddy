@@ -1,4 +1,4 @@
-# TravelBuddy
+# Travel Buddy Manual Project
 Travel Buddy, an online trip Planning and Destination Discovery platform.
 Overview
 “Travel Buddy” is a web-based application designed to help users plan trips and discover new
